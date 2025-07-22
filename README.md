@@ -1,8 +1,6 @@
 ### Hi there 👋
-Undergraduate student in Computer Science at Universidade Federal de São Carlos. Interested in computer graphics, game development and HPC.
 
-
-- 🌱 I’m currently learning ... OpenGL
+Software Developer with B.Sc. degree in Computer Science from Universidade Federal de São Carlos(UFSCar) and 4 years of experience in C# (.NET) and Unity.
 
 - 📫 How to reach me: 
 
